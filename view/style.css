@@ -6,6 +6,10 @@
     text-transform: uppercase;
 }
 
+section{
+    margin-bottom: 25px;
+}
+
 .primeiraSessao{
     position: relative;
     text-align: center;
@@ -42,7 +46,7 @@
 
 .segundaSessao > img{
     width: 100%;
-    margin: 15px 0;
+    /* margin: 15px 0; */
 }
 
 h3{
